@@ -44,4 +44,4 @@
 | 41  |	[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)																	      | [C](/Problem Solving/Easy/aVeryBigSum.py)                            									 | Easy       |
 | 42  |	[Viral Advertisement](https://www.hackerrank.com/challenges/strange-advertising/problem)															      | [py](/Problem Solving/Easy/viralAdvertisement.py)                    									 | Easy       |
 | 43  | [Kaprekar Numbers (failed 1 TC)](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)														      | [py](https://github.com/asbaravkar/hackerank-solutions-problem-solving/blob/master/Problem%20Solving/Easy/kaprekarNumbers.py)		 | Easy       |
-| 44  | [Minimum Distance](https://www.hackerrank.com/challenges/minimum-distances/problem)																      | [py]()																	 | Easy       |
+| 44  | [Minimum Distance](https://www.hackerrank.com/challenges/minimum-distances/problem)																      | [py](https://github.com/asbaravkar/hackerank-solutions-problem-solving/blob/master/Problem%20Solving/Easy/minimumDistance.py)		 | Easy       |
