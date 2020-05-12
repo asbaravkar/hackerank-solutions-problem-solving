@@ -51,3 +51,4 @@
 | 48  | [Hackerrank In A String](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)															      | [py](https://github.com/asbaravkar/hackerank-solutions-problem-solving/blob/master/Problem%20Solving/Easy/hackerrankInAString.py)	 | Easy       |
 | 49  | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)																      | [py](https://github.com/asbaravkar/hackerank-solutions-problem-solving/blob/master/Problem%20Solving/Easy/superReducedString.py)	 | Easy       |
 | 50  | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)																	      | [py](https://github.com/asbaravkar/hackerank-solutions-problem-solving/blob/master/Problem%20Solving/Easy/caesarCipher.py)		 | Easy       |
+| 51  | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem)																      | [py]()|
