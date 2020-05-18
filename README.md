@@ -52,3 +52,4 @@
 | 49  | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)																      | [py](https://github.com/asbaravkar/hackerank-solutions-problem-solving/blob/master/Problem%20Solving/Easy/superReducedString.py)	 | Easy       |
 | 50  | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)																	      | [py](https://github.com/asbaravkar/hackerank-solutions-problem-solving/blob/master/Problem%20Solving/Easy/caesarCipher.py)		 | Easy       |
 | 51  | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem)																      | [py](https://github.com/asbaravkar/hackerank-solutions-problem-solving/blob/master/Problem%20Solving/Easy/marsExploration.py)	  	 | Easy       |
+| 52  | [Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search)				      | [py]()|
